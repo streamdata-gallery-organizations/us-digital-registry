@@ -1,6 +1,6 @@
 title: Streamdata Gallery
 url: us-digital-registry.api.streamdata.gallery
-tag: Temmplate
+tag: U.S. Digital Registry
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery-organizations
