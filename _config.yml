@@ -1,9 +1,10 @@
-title: Streamdata Gallery U.S. Digital Registry
+title: Streamdata API Gallery - US Digital Registry
+description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
 url: us-digital-registry.streamdata.gallery
-tag: U.S. Digital Registry
+tag: US Digital Registry
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery
+github_user: streamdata-gallery-topics
 github_repo: us-digital-registry
 github_branch: master
 collections:
